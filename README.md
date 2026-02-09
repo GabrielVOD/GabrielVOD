@@ -1,4 +1,5 @@
-## Hi there 👋
+![Gabriel Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvod&show_icons=true&theme=radical)
+
 
 <!--
 **GabrielVOD/GabrielVOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
