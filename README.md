@@ -1,4 +1,6 @@
-![Gabriel Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvod&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvod&layout=compact&langs_count=5&theme=onedark)
+
+![Gabriel Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvod&show_icons=true&theme=onedark)
 
 
 <!--
