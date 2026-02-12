@@ -1,6 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvod&layout=compact&langs_count=5&theme=onedark)
+![Top Langs](https://github-readme-stats-beta-weld-69.vercel.app/api/top-langs/?username=gabrielvod&layout=compact&langs_count=5&theme=onedark)
 
-![Gabriel Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvod&show_icons=true&theme=onedark)
+![Gabriel Victor GitHub stats](https://github-readme-stats-beta-weld-69.vercel.app/api?username=gabrielvod&show_icons=true&theme=onedark)
 
 
 <!--
