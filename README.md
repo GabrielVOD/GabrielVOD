@@ -1,6 +1,9 @@
-![Top Langs](https://github-readme-stats-beta-weld-69.vercel.app/api/top-langs/?username=gabrielvod&layout=compact&langs_count=5&theme=onedark)
+## 👍 Hi, I'm Gabriel Victor
 
-![Gabriel Victor GitHub stats](https://github-readme-stats-beta-weld-69.vercel.app/api?username=gabrielvod&show_icons=true&theme=onedark)
+<p align="center">
+  <img alt="Top Programming Languages" width="48%" height="150em" src="https://github-readme-stats-beta-weld-69.vercel.app/api/top-langs/?username=gabrielvod&layout=donut&langs_count=5&theme=onedark"/>
+  <img alt="Vetor Gihub stats" width="48%" height="150em" src="https://github-readme-stats-beta-weld-69.vercel.app/api?username=gabrielvod&show_icons=true&theme=onedark"/>
+</p>
 
 
 <!--
